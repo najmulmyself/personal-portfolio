@@ -1,0 +1,100 @@
+body{
+    margin: 0px;
+}
+.half-width{
+    width: 40%;
+    height: 400px;
+    float: left;
+    margin: 5%;
+}
+.half-width img{
+    width: 70%;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 45px;
+    letter-spacing: 3px
+}
+.btn{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(180deg,tomato,rgb(243, 127, 106));
+    padding: 8px 20px;
+    font-weight: 500;
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
+
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    padding: 5px;
+}
+.nameHighlight1{
+    color: grey;
+}
+.nameHighlight2{
+    color: rgb(235, 129, 110);
+}
+
+.container{
+    padding-left: 150px;
+    text-align: center;
+    display: block;
+    clear: both;
+    height: 500px;
+}
+.project-area{
+    width: 30%;
+    float: left;
+    box-shadow: 5px 5px 5px 5px grey;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+.project-area img{
+    width: 90%;
+    display: block;
+    margin: auto;
+    padding: 8px 0px;
+}
+.project-area a{
+    text-decoration: none;
+    font-size: 18px;
+    padding-left: 8px;
+}
+
+.contact{
+    clear: both;
+} 
+ .chat{
+    background-image: url(img/Group_33094_1.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    margin-top: 100px;
+    height: 150px;
+    text-align: center;
+    justify-content: space-between;
+}
+.chat h1{
+    color: rgb(255, 255, 255);
+}
+.footer{
+    text-align: center;
+}
+.footer a{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(58, 58, 173);
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+.text{
+    text-transform: uppercase;
+    font-family:'Bebas Neue', cursive ;
+    color: grey;
+    letter-spacing: 5px;
+}
+.social-link{
+    padding: 15px;
+}
